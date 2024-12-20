@@ -32,3 +32,5 @@
     - after the changes are made you can run `npm run start` to run the server without automatic reload **OR** `npm run dev` to run the server with automatic reload.
 
 5.  - run `npm i dotenv` to install the dotenv package and add `require('dotenv').config()` **OR** `import 'dotenv/config'` to the top of the index.js. This will allow you to access the environment variables in the .env file. You can add the environment variables in the .env file like `PORT=3000`. You can access the environment variables in the index.js like `process.env.PORT`.
+
+6.  - run `npm i winston morgan` to install the winston and morgan packages which are used as loggers.

@@ -2,3 +2,4 @@
 node_modules/
 /todo/tasks.json
 /eda/eventlog.txt
+/backend/02-express/app.log
