@@ -1,4 +1,6 @@
+*.env
 .env
+.env.*
 node_modules/
 /todo/tasks.json
 /eda/eventlog.txt
