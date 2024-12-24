@@ -1,0 +1,8 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/test\",\"status\":\"201\",\"responseTime\":\"5.744\"}","timestamp":"2024-12-20T05:50:35.280Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/test\",\"status\":\"201\",\"responseTime\":\"0.553\"}","timestamp":"2024-12-20T05:50:40.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/test\",\"status\":\"200\",\"responseTime\":\"0.922\"}","timestamp":"2024-12-20T05:52:02.378Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/test\",\"status\":\"200\",\"responseTime\":\"4.884\"}","timestamp":"2024-12-20T05:54:20.826Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Post request to create a new JSON in the array","timestamp":"2024-12-20T05:54:24.029Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/test\",\"status\":\"201\",\"responseTime\":\"1.558\"}","timestamp":"2024-12-20T05:54:24.031Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Post request to create a new JSON in the array","timestamp":"2024-12-20T05:54:27.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/test\",\"status\":\"201\",\"responseTime\":\"2.170\"}","timestamp":"2024-12-20T05:54:27.992Z"}

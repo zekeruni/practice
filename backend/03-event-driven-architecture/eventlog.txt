@@ -1,0 +1,6 @@
+2024-12-18T14:09:06.361Z - Application Started 
+2024-12-18T14:09:06.381Z - Application event occurred 
+2024-12-18T14:09:09.365Z - Current memory usage : 78.50 
+2024-12-18T14:09:12.369Z - Current memory usage : 78.49 
+2024-12-18T14:09:15.370Z - Current memory usage : 78.51 
+2024-12-18T14:09:18.373Z - Current memory usage : 78.54 
