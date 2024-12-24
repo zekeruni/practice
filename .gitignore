@@ -2,6 +2,6 @@
 .env
 .env.*
 node_modules/
-/todo/tasks.json
-/eda/eventlog.txt
+/backend/todo/tasks.json
+/backend/eda/eventlog.txt
 /backend/02-express/app.log
