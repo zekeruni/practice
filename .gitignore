@@ -3,6 +3,7 @@
 .env.*
 .vscode/
 node_modules/
+files/
 /backend/01-todo/tasks.json
 /backend/03-event-driven-architrecture/eventlog.txt
 /backend/05-express/app.log
